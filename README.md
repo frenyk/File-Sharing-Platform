@@ -79,7 +79,7 @@ npm start
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out via [vasunageshri@gmail.com](mailto:vasunageshri@gmail.com).
+For any inquiries or feedback, feel free to reach out via [frenydudhagara@gmail.com](mailto:frenydudhagara@gmail.com).
 
 ---
 
